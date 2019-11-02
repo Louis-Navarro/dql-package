@@ -1,7 +1,7 @@
 DQL Agent package
 =================
 
-This is a package that contains a pre-made DQL agent. This is the code used in both my CartPole and Acrobot AIs.
+This is a package that contains a pre-made DQL agent. This is the code used in my CartPole AI.
 
 ## How to install
 
